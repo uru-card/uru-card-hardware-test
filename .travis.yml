@@ -27,7 +27,7 @@ cache:
 
 branches:
   only:
-  - master
+  - main
 
 install:
     - pip install -U platformio
